@@ -2702,7 +2702,7 @@ Proyek MangroveChain telah berhasil mengembangkan suatu sistem berbasis teknolog
 
 Melalui analisis korelasi regulasi terhadap metrik biodiversitas, pemodelan efisiensi penyerapan karbon, serta evaluasi partisipasi masyarakat dalam proyek konservasi, MangroveChain mampu menghasilkan insight berbasis data yang mendalam. Kombinasi SQL analitik, visualisasi Python interaktif, dan pendekatan jaringan PyVis memungkinkan proyek ini menyeimbangkan antara kecanggihan teknologi dan kebutuhan praktis para pemangku kepentingan.
 
-##3.2 Implikasi Proyek
+## 3.2 Implikasi Proyek
 
 ### a. Strategis
 Sistem ini menjadi landasan strategis untuk membuat keputusan berbasis data dalam alokasi dana konservasi, validasi kredit karbon, dan pengawasan proyek lapangan.
